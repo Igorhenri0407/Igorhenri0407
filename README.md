@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Igorhenri0407
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Igor Henrique Vieira de Jesus
+- 👀 I’m interested in aprender linguagens de programação
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
